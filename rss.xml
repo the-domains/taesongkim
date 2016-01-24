@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[taesongkim]]></title>
         <description><![CDATA[taesongkim]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/taesongkim/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 24 Jan 2016 20:02:05 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 24 Jan 2016 20:02:11 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/taesongkim/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Vertigo]]></title>
+            <description><![CDATA[<article><h1>Vertigo</h1><p>Adinah melts souls.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a8bda550fc3d6e6e83858147d709814f34a1f55a.jpg"></article>]]></description>
+            <link>https://thegrid.ai/taesongkim/ab50bc9c-d280-45bf-8274-eaca079b40de/index.html</link>
+            <guid isPermaLink="false">ab50bc9c-d280-45bf-8274-eaca079b40de</guid>
+            <pubDate>Sun, 24 Jan 2016 20:01:50 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2aace0bb-e4a1-4785-9f88-9859f09559f3.jpg">]]></description>
-            <link>undefined52db0f37-8886-4aa7-bfa1-4815637a757a/index.html</link>
+            <link>https://thegrid.ai/taesongkim/52db0f37-8886-4aa7-bfa1-4815637a757a/index.html</link>
             <guid isPermaLink="false">52db0f37-8886-4aa7-bfa1-4815637a757a</guid>
             <pubDate>Sun, 24 Jan 2016 20:01:50 GMT</pubDate>
         </item>
